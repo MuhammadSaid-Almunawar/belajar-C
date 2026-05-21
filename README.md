@@ -1,2 +1,2 @@
-# Belajar-C
+# belajar-C
 Latihan bahasa C 
